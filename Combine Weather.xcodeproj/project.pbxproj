@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		750FEBC128573161003C9919 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 750FEBC028573161003C9919 /* Model.swift */; };
 		75E854322854D35E00ED7D6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E854312854D35E00ED7D6D /* AppDelegate.swift */; };
 		75E854342854D35E00ED7D6D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E854332854D35E00ED7D6D /* SceneDelegate.swift */; };
 		75E854362854D35E00ED7D6D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E854352854D35E00ED7D6D /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		750FEBC028573161003C9919 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		75E8542E2854D35E00ED7D6D /* Combine Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Combine Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		75E854312854D35E00ED7D6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		75E854332854D35E00ED7D6D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				75E854312854D35E00ED7D6D /* AppDelegate.swift */,
 				75E854332854D35E00ED7D6D /* SceneDelegate.swift */,
+				750FEBC028573161003C9919 /* Model.swift */,
 				75E854352854D35E00ED7D6D /* ViewController.swift */,
 				75E854372854D35E00ED7D6D /* Main.storyboard */,
 				75E8543A2854D36300ED7D6D /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				75E854362854D35E00ED7D6D /* ViewController.swift in Sources */,
 				75E854322854D35E00ED7D6D /* AppDelegate.swift in Sources */,
 				75E854342854D35E00ED7D6D /* SceneDelegate.swift in Sources */,
+				750FEBC128573161003C9919 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
